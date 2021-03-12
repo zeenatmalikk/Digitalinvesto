@@ -1,0 +1,43 @@
+.register {
+  border: 3px;
+  border-width: thick;
+}
+
+.text-field {
+  margin-bottom: 8%;
+}
+
+form{
+  caret-color: #ff1a1a;
+}
+
+body {
+  /* background-image: -webkit-linear-gradient(left, #66ff99 20%,  #ff66d9 10%);
+        background-image: -moz-linear-gradient(left, #66ff99 30%,  #ff66d9 10%);
+        background-image: -o-linear-gradient(left, #66ff99 10%,  #ff66d9 50%);
+        background-image: linear-gradient(to right, #66ff99 10%,  #ff66d9 50%); */
+
+  /* background: linear-gradient(to bottom right, #66ff99 52%, #ff00ff 100%); */
+background-image: url(https://lh3.googleusercontent.com/proxy/5tEa2K6sfa4OdUU-Dd8kLo4AxxmWitZf05A2a8dCje2-DvmPA6u8gQZ7mF8xCtfJvC0ZxSlDAQfoNSCyIODHa71SJqaCOLdqgzbG7plE0xycVr3QHAiUqq-P7D8L8hNwWRc);
+background-repeat: no-repeat;
+background-size: 100%;
+
+
+}
+
+.cardcontent {
+  margin: 30px;
+  margin-inline: 200px;
+}
+
+.card {
+  width: 90%;
+  height: 90%;
+  margin-inline: 28px;
+  border-radius: 2%;
+  border: 8px solid;
+ border-color: darkgray;
+  
+}
+
+

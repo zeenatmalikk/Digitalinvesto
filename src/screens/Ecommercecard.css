@@ -1,0 +1,71 @@
+.prodname{
+    text-align: center;
+    margin: 3%;
+}
+
+.image{
+    height: 8cm;
+    width: 8cm;
+    margin: 8%;
+}
+
+.filter_side_bar{
+  
+        background-color: #FFFFFF;
+        box-shadow: 0 1px 3px rgb(226 226 226 / 25%), 0 1px 2px rgb(226 226 226 / 50%);
+        padding-right: 15px;
+        padding-left: 15px;
+        overflow: hidden;
+    
+}
+
+.brand_side{
+    border-bottom: solid 1px #ebebeb;
+}
+
+.filter-sidebar__filter-wrap {
+    cursor: pointer;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 8px;
+}
+
+.clearfix{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.filter-sidebar__filter-title {
+    font-size: 14px;
+}
+
+.filter-sidebar__filter-title {
+    text-transform: uppercase;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: #3f414d;
+}
+
+.filter-options-toggle {
+    color: #fc2779;
+    cursor: pointer;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.pull-right {
+    float: right !important;
+}
+
+.raisedbox { 
+    padding: 10px;
+    border: 1px solid #77aaff;
+    box-shadow:  -1px 1px #77aaff,
+         -2px 2px #77aaff,
+         -3px 3px #77aaff,
+         -4px 4px #77aaff,
+         -5px 5px #77aaff;
+}
